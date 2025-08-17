@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     padding: none;
     margin: none;
@@ -22,4 +23,30 @@ button{
     box-shadow: 0 0 12px 8px;
     border-radius: 5px;
     transition: 0.3s;
+=======
+body{
+    padding: none;
+    margin: none;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    background: #a9b9c9;
+}
+.container{
+    text-align: center;
+}
+ span{
+    color: red;
+}
+button{
+    background-color: hotpink;
+    color: whitesmoke;
+    padding : 0.5rem 1 rem;
+    cursor: pointer;
+    box-shadow: 0 0 12px 8px;
+    border-radius: 5px;
+    transition: 0.3s;
+>>>>>>> 6d67bca70a120e5fe44973119b52d43fe843e17c
 }
